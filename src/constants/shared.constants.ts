@@ -14,8 +14,8 @@ export const weekDaysConstant = {
 };
 
 export const usersConstant: User[] = [
-  { id: 1, name: 'Victor', picture: '/users/victor.png' },
-  { id: 2, name: 'Cooler Victor', picture: '/users/coolvictor.png' },
+  { id: 1, name: 'Mouad ', picture: '/users/mouad.png' },
+  { id: 2, name: 'Cooler Mouad', picture: '/users/ayoub.png' },
 ];
 
 export const cubicTransition = 'cubicBezier(.5, .05, .1, .3)';
